@@ -1,0 +1,13 @@
+dictionary.txt
+
+A B A N D O N 
+C # # # O # # 
+U P H O L D # 
+T # # # L # # 
+E N V Y # # # 
+
+AaH ABANDON
+AaV ACUTE
+CaH UPHOLD
+AeV DOLL
+EaH ENVY

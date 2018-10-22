@@ -1,0 +1,21 @@
+dictionary.txt
+
+. # . . E . . . . . . . . . . 
+# A B A N D O N # . . . . . . 
+. C . . G . . . . . . . . . . 
+. U . . A . . . . . . . . . . 
+. T . . G . # . . # . . . . . 
+R E D E E M A B L E # . . . . 
+. # . . M . K . . N . . . . . 
+. . . . E . I . . D . . . . . 
+. . . . N . N . . E . . . . . 
+. . . . T . # . . A . . . . . 
+. . . . # . . . . R . . . . . 
+. . . . . . . . . # . . . . . 
+
+BbH ABANDON
+BbV ACUTE
+FaH REDEEMABLE
+AeV ENGAGEMENT
+FgV AKIN
+FjV ENDEAR

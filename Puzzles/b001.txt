@@ -1,0 +1,38 @@
+dictionary.txt
+
+A B A N D O N # O D D 
+C # W # O # # C # E # 
+C O E R C E # O # C # 
+E # # # I # A M P L E 
+S C O W L # # P # I # 
+S # # # E # C U R V E 
+# L A W # R # T # I # 
+# A # I # E J E C T # 
+T W I N E # # # # Y # 
+# F # N # S H O W # # 
+# U # O # I # # O # #
+G L O W I N G # E K E
+# # # # # # # # # # #
+
+AaH ABANDON
+AiH ODD
+AaV ACCESS
+CaH COERCE
+EaH SCOWL
+AcV AWE
+AeV DOCILE
+BhV COMPUTE
+DgH AMPLE
+AjV DECLIVITY
+FgH CURVE
+GbH LAW
+GbV LAWFUL
+IaH TWINE
+GdV WINNOW
+LaH GLOWING
+JfV SIN
+GfV RE
+HfH EJECT
+JfH SHOW
+JiV WOE
+LiH EKE

@@ -1,0 +1,3 @@
+PLAYER NAME :   Henrique | TIME : 207.712s | HINTS : 0
+PLAYER NAME :      Vitor | TIME : 234.124s | HINTS : 1
+PLAYER NAME :          H | TIME : 194.375s | HINTS : 1
